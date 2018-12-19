@@ -1,0 +1,13 @@
+{
+  "name": "dandelionmood/pierre-v3",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Pierre Quillery",
+      "email": "pierre@quillery.fr"
+    }
+  ],
+  "require": {
+    "dg/twitter-php": "dev-master"
+  }
+}
