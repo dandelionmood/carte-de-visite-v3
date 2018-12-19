@@ -1,4 +1,5 @@
-node_modules/
-vendor/
-.idea/
-configuration.php
+/ajax/cache/*
+/node_modules/
+/vendor/
+/.idea/
+/configuration.php
