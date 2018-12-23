@@ -24,7 +24,7 @@
 
     <div class="d-flex flex-column flex-md-row  justify-content-center">
         <div class="contact-info p-3">
-            <img src="/assets/photo.png" class="img-fluid" alt="photo"/>
+            <img src="/assets/photo.png" class="rounded img-fluid" alt="photo"/>
             <div class="hero">
                 <h1>
                     Pierre Quillery
@@ -68,6 +68,11 @@
     </div>
 
 </div>
+
+<footer>
+    Icônes par <a href="//fontawesome.com/">Font Awesome</a>, photo par Guillaume Quillery.<br />
+    Le code de cette carte de visite est <a href="//github.com/dandelionmood/carte-de-visite-v3"><em>open-source</em></a>.
+</footer>
 
 </body>
 </html>
