@@ -26,6 +26,7 @@
     "resolve-url-loader": "^2.3.1",
     "sass": "^1.15.2",
     "sass-loader": "^7.1.0",
-    "typeface-ibm-plex-sans": "0.0.61"
+    "typeface-ibm-plex-sans": "0.0.61",
+    "vue-template-compiler": "^2.5.21"
   }
 }
